@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Attention architecture, GPT models.**
 
-- 💬 Ask me about **LLMs,Transformers, attention networks, Automotive eng.,**
+- 💬 Ask me about **LLMs, Transformers, attention networks, Automotive eng.,**
 
 - 📫 How to reach me **aaravryn@gmail.com**
 
