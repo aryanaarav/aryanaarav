@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Aarav</h1>
 <h3 align="center">A learner and doer, an enthusiast in Artificial Intelligence and Machine Learning.</h3>
 
-- 🔭 I’m currently working on **Building LLM from Scratch**
+- 🔭 I’m currently working on **Building an LLM from Scratch**
 
 - 🌱 I’m currently learning **Attention architecture, GPT models.**
 
