@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **LLMs, Transformers, attention networks, Automotive eng.,**
 
-- 📫 How to reach me **aaravryn@gmail.com**
+- 📫 How to reach me **aaravryn@gmail.com** Contact: **9523599451**
 
 - ⚡ Fun fact **Mechanical Engineering and Machine Learning both go hand in hand for me!**
 
