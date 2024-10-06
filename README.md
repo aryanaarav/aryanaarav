@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aryan Aarav</h1>
-<h3 align="center">A learner and doer, an enthusiast in Artificial Intelligence and Machine Learning.</h3>
+<h3 align="center">A learner and a doer, an enthusiast in Artificial Intelligence and Machine Learning.</h3>
 
-- 🔭 I’m currently working on **Building an LLM from Scratch**
+- 🔭 I’m currently working on **Learning about LLMs,RAG,LMMs,AI agents and analysing research papers!**
 
 - 🌱 I’m currently learning **Attention architecture, GPT models.**
 
-- 💬 Ask me about **LLMs, Transformers, attention networks, Automotive eng.,**
+- 💬 Ask me about **LLMs, Transformers, attention networks, Aerospace eng.,**
 
-- 📫 How to reach me **aaravryn@gmail.com** Contact: **9523599451**
+- 📫 How to reach me **aaravryn@gmail.com**
+**aryantrotsky6969@gmail.com**
 
 - ⚡ Fun fact **Mechanical Engineering and Machine Learning both go hand in hand for me!**
 
